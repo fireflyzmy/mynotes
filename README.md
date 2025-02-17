@@ -1,2 +1,3 @@
 # mynotes
-notes during university llife
+
+- notes during university llife
